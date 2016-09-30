@@ -11,7 +11,7 @@ Show some love if you like this UI kit and share it with your friends. :+1:
 PS any feedback is appreciated! Just take a look at the issues or if you like you can [leave me a comment on dribbble](https://dribbble.com/shots/2987000-macOS-Sierra-UI-Kit-for-Sketch).
 
 # Whats next?
-- [ ] Craft Library
+- [x] ~~Craft Library~~
 - [ ] Interested in a complete UI Kit? Show me some reaction [here](https://github.com/alexkaessner/macOS-UI-Kit/issues/1)! :wink:
 
 # System requirements
