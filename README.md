@@ -1,5 +1,5 @@
 
-![Preview](Preview.jpg?raw=true)
+![Preview](Previews/Repo Header.jpg?raw=true)
 
 # macOS UI Kit for Sketch
 This is a small UI Kit for macOS Sierra.  
@@ -11,8 +11,11 @@ Show some love if you like this UI kit and share it with your friends. :+1:
 PS any feedback is appreciated! Just take a look at the issues or if you like you can [leave me a comment on dribbble](https://dribbble.com/shots/2987000-macOS-Sierra-UI-Kit-for-Sketch).
 
 # Whats new?
-![Preview](Touch Bar Preview.jpg?raw=true)
-New with version 1.1 is a UI Kit for the all new MacBook Por Touch Bar. Including common layouts from the [macOS HIG](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/AbouttheTouchBar.html#//apple_ref/doc/uid/20000957-CH104-SW1) and some system app layouts.
+![Preview](Previews/Touch Bar Preview.jpg?raw=true)
+New since version 1.1 is a UI Kit for the all new MacBook Por Touch Bar. Including common layouts from the [macOS HIG](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/AbouttheTouchBar.html#//apple_ref/doc/uid/20000957-CH104-SW1) and some system app layouts.
+
+# Need Help?
+Take a look at the [Repo Wiki](https://github.com/alexkaessner/macOS-UI-Kit/wiki) to read more about the both UI Kits and how to use them.
 
 # Whats next?
 - [x] ~~Craft Library~~
