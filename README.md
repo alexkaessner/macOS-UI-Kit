@@ -14,7 +14,7 @@ PS any feedback is appreciated! Just take a look at the issues, or [leave me a c
 
 
 # Touch Bar Kit
-![Preview](Previews/Touch Bar Preview.jpg?raw=true)
+![Preview](Previews/Touch%20Bar%20Preview.jpg?raw=true)
 New since version 1.1 is a UI Kit for the all new MacBook Pro Touch Bar. It includes common layouts from the [macOS HIG](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/AbouttheTouchBar.html#//apple_ref/doc/uid/20000957-CH104-SW1) and some system app layouts.
 
 # Need Help?
