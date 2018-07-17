@@ -30,8 +30,9 @@ Take a look at the [Repo Wiki](https://github.com/alexkaessner/macOS-UI-Kit/wiki
 - [x] ~~Craft Library~~
 - [x] ~~Touch Bar Kit~~
 - [x] ~~update for macOS 10.13 High Sierra~~
+- [x] ~~update for Sketch 51~~
 - [ ] Interested in a complete UI Kit? Show me some reactions [here](https://github.com/alexkaessner/macOS-UI-Kit/issues/1)! :wink:
 
 # System requirements
-**This UI Kit requires Sketch 47 or higher.**  
-If you need a file for a older Sketch version look out for [older UI Kit versions](https://github.com/alexkaessner/macOS-UI-Kit/releases/tag/v1.2).
+**This UI Kit is made for Sketch 51 or higher.**  
+If you need a file for a older Sketch version look out for [older UI Kit versions](https://github.com/alexkaessner/macOS-UI-Kit/releases).
