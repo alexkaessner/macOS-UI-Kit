@@ -14,6 +14,9 @@ Any feedback is appreciated! Just take a look at the issues, or [leave me a comm
 [![Download](Previews/Banner-Cloud.png?raw=true)](https://sketch.cloud/s/dr1K9)
 [![Download](Previews/Banner-Cloud2.png?raw=true)](https://sketch.cloud/s/2mYvQ)
 
+# NOTE: macOS 11 Big Sur
+Yes, I’m working on a big update for macOS 11. Stay tuned! :wink:
+
 # Sketch Libraries
 Both the macOS UI Kit and the Touch Bar Kit are perfectly suited for the new [Sketch Libraries](https://sketchapp.com/docs/libraries/)! Just download the Libraries from Sketch Cloud (links above) or add it manually and start designing!
 
@@ -25,13 +28,6 @@ New since version 1.1 is a UI Kit for the all new MacBook Pro Touch Bar. It incl
 
 # Need Help?
 Take a look at the [Repo Wiki](https://github.com/alexkaessner/macOS-UI-Kit/wiki) to read more about both of the UI Kits and how to use them.
-
-# Whats next?
-- [x] ~~Craft Library~~
-- [x] ~~Touch Bar Kit~~
-- [x] ~~update for macOS 10.13 High Sierra~~
-- [x] ~~update for Sketch 51~~
-- [ ] Interested in a complete UI Kit? Show me some reactions [here](https://github.com/alexkaessner/macOS-UI-Kit/issues/1)! :wink:
 
 # System requirements
 **This UI Kit is made for Sketch 51 or higher.**  
