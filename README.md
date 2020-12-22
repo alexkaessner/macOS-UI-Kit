@@ -19,20 +19,9 @@ Both the macOS UI Kit and the Touch Bar Kit are perfectly suited for the new [Sk
 
 > The best design happens when designers collaborate together. With Libraries, designers can now share Symbols across documents and have them update to be always kept in sync.
 
-# Touch Bar Kit included
-![Preview](Previews/Touch%20Bar%20Preview.jpg?raw=true)
-New since version 1.1 is a UI Kit for the all new MacBook Pro Touch Bar. It includes common layouts from the [macOS HIG](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/AbouttheTouchBar.html#//apple_ref/doc/uid/20000957-CH104-SW1) and some system app layouts.
-
 # Need Help?
 Take a look at the [Repo Wiki](https://github.com/alexkaessner/macOS-UI-Kit/wiki) to read more about both of the UI Kits and how to use them.
 
-# Whats next?
-- [x] ~~Craft Library~~
-- [x] ~~Touch Bar Kit~~
-- [x] ~~update for macOS 10.13 High Sierra~~
-- [x] ~~update for Sketch 51~~
-- [ ] Interested in a complete UI Kit? Show me some reactions [here](https://github.com/alexkaessner/macOS-UI-Kit/issues/1)! :wink:
-
 # System requirements
-**This UI Kit is made for Sketch 51 or higher.**  
+**This UI Kit is made for Sketch 70 or higher.**  
 If you need a file for a older Sketch version look out for [older UI Kit versions](https://github.com/alexkaessner/macOS-UI-Kit/releases).
