@@ -6,7 +6,7 @@
 Get the incredibly detailed and most accurate macOS UI Kit for Sketch. The library is loaded with hundreds of components, colors, and text styles. Arguably the fastest way to get started with your Mac app designs.
 
 ## Installation
-1. [Download](https://github.com/alexkaessner/macOS-UI-Kit/releases/latest) the latest Version
+1. [Download](https://github.com/alexkaessner/macOS-UI-Kit/releases/latest/download/macOS-UI-Kit.zip) the latest Version
 2. Open Sketch.app
 3. Go to _Sketch > Preferences… > Libraries > Add Library…_
 4. Select the _macOS 11 UI Kit.sketch_ File
