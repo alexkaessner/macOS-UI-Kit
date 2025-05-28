@@ -1,7 +1,7 @@
 ![Preview](/.images/repo-banner.png)
 
 # macOS UI Kit for Sketch
-[![latest release](https://img.shields.io/github/release/alexkaessner/macOS-UI-Kit.svg)](https://github.com/alexkaessner/macOS-UI-Kit/releases/latest) [![license](https://img.shields.io/github/license/alexkaessner/macOS-UI-Kit.svg)](https://github.com/alexkaessner/macOS-UI-Kit/blob/master/LICENSE) ![Sketch Version](https://img.shields.io/badge/Sketch-v89%20or%20newer-f7b500?logo=sketch)
+[![latest release](https://img.shields.io/github/release/alexkaessner/macOS-UI-Kit.svg)](https://github.com/alexkaessner/macOS-UI-Kit/releases/latest) [![license](https://img.shields.io/github/license/alexkaessner/macOS-UI-Kit.svg)](https://github.com/alexkaessner/macOS-UI-Kit/blob/master/LICENSE) ![Sketch Version](https://img.shields.io/badge/Sketch-v101%20or%20newer-f7b500?logo=sketch)
 
 Get the incredibly detailed and most accurate macOS UI Kit for Sketch. The library is loaded with hundreds of components, colors, and text styles. Arguably the fastest way to get started with your Mac app designs.
 
@@ -26,7 +26,7 @@ Get the incredibly detailed and most accurate macOS UI Kit for Sketch. The libra
 - SF Symbol Support
 
 ## Minimum Requirements
-**Made with Sketch 89.** Requires Apple’s [SF Pro](https://developer.apple.com/fonts/) Font.
+**Made with Sketch 101.** Requires Apple’s [SF Pro](https://developer.apple.com/fonts/) Font.
 
 ## Contribution
 Feel free to [report problems](https://github.com/alexkaessner/macOS-UI-Kit/issues) or [request new elements](https://github.com/alexkaessner/macOS-UI-Kit/discussions) on GitHub.  
